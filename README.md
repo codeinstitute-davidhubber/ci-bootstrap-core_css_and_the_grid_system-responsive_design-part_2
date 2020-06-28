@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-bootstrap-core_css_and_the_grid_system-responsive_design-part_2/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-bootstrap-core_css_and_the_grid_system-responsive_design-part_2/'**
 ***
 title: **'Code Institute - Bootstrap - Core CSS & The Grid System - Repsonsive Design - Part 2'**
 
